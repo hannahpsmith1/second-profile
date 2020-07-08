@@ -1,0 +1,15 @@
+.navbar-brand {
+    background-image: url("/images/HPS.jpg");
+    background-size: cover;
+    background-position: center;
+    max-width: 20px!important;
+    
+
+  }
+
+
+.jumbotron {
+    background-image: url("images/golden_gate_bridge_presidio.jpg");
+    background-size: cover;
+    height: 200px;
+  }
