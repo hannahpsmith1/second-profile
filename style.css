@@ -11,5 +11,10 @@
 .jumbotron {
     background-image: url("images/golden_gate_bridge_presidio.jpg");
     background-size: cover;
-    height: 200px;
+    height: auto;
   }
+
+.navbar{
+    background-color: transparent;
+    opacity:1;
+}
